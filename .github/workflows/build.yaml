@@ -27,7 +27,6 @@ jobs:
           - satellite1
           - satellite1.ld2450
           - satellite1.ld2410
-          - satellite1.secure
 
     steps:
       - name: Checkout repository
